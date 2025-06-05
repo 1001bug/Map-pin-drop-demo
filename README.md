@@ -24,17 +24,8 @@ Drop pin with long press. Three implementation to compare.
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <img src="images/View1.png" alt="Main interface" style="width: 23%; min-width: 100px; max-width: 1500px;" />
-  <img src="images/View2.png" alt="Settings page" style="width: 23%; min-width: 100px; max-width: 1500px;" />
-  <img src="images/View3.png" alt="Feature demo" style="width: 23%; min-width: 100px; max-width: 1500px;" />
-  <img src="images/View4.png" alt="Mobile view" style="width: 23%; min-width: 100px; max-width: 1500px;" />
+  <img src="images/View1.png" alt="Main interface" style="width: 23%; min-width: 100px; max-width: 1500px; border: 1px solid grey;" />
+  <img src="images/View2.png" alt="Settings page" style="width: 23%; min-width: 100px; max-width: 1500px; border: 1px solid grey;" />
+  <img src="images/View3.png" alt="Feature demo" style="width: 23%; min-width: 100px; max-width: 1500px; border: 1px solid grey;" />
+  <img src="images/View4.png" alt="Mobile view" style="width: 23%; min-width: 100px; max-width: 1500px; border: 1px solid grey;" />
 </div>
-
-## Screensots
-![Main Screen](images/View1.png)
-
-![Pins on map](images/View2.png)
-
-![Pin info page](images/View3.png)
-
-![All pins list](images/View4.png)
